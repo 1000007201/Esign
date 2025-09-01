@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#main-cont{
+    border: 2px solid black;
+}
+
+#pad{
+    border: 2px solid black;
+    border-radius: 5px;
+}
